@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title></title>
-      <link href="/post/%E4%BD%A0%E4%BB%AC%E5%A5%BD.html"/>
-      <url>/post/%E4%BD%A0%E4%BB%AC%E5%A5%BD.html</url>
+      <title>第一篇文章</title>
+      <link href="/post/5c2fafc7.html"/>
+      <url>/post/5c2fafc7.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 此为测试 </tag>
+            
+        </tags>
       
     </entry>
     
