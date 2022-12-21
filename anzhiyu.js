@@ -34,7 +34,7 @@ var anzhiyu = {
   musicTelescopic: function () {
     if (anzhiyu_musicStretch) {
       document.querySelector("#nav-music").classList.remove("stretch");
-      anzhiyu_musicStretch = false;
+      anzhiyu_musicStretch = true;
     } else {
       document.querySelector("#nav-music").classList.add("stretch");
       anzhiyu_musicStretch = true;
